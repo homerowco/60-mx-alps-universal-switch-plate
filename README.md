@@ -1,5 +1,7 @@
 # Switch plate for 60% Layout
 
+![](https://github.com/homerowco/60-mx-alps-universal-switch-plate/blob/master/DXF/60pct-mxalps-universal-combined-final.preview.png?raw=true)
+
  - ISO and ANSI support
  - Cherry MX and ALPS support
  - 16x7mm stab cut outs
