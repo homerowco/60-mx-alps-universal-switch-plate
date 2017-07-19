@@ -6,6 +6,7 @@
  - Cherry MX and ALPS support
  - 16x7mm stab cut outs
  - NO Pok3r style screw holes!
+ - NO split ANSI Enter!
 
 
 # KLE Base
